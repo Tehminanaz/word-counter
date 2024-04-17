@@ -1,3 +1,5 @@
+#! user/bin/nev
+
 import inquirer from "inquirer";
 
 const answer : {
